@@ -1,3 +1,5 @@
+# 돈 많은 백수가 되고 싶다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
