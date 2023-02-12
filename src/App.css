@@ -1,0 +1,30 @@
+div.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  float: left;
+}
+
+div.divItem {
+  border: 1px solid black;
+  margin: 10px 5px 15px 5px;
+  width: 100px;
+  height: 40px;
+  background-color: aquamarine;
+}
+
+div.divItem2 {
+  border: 1px solid black;
+  margin: 10px 5px 15px 5px;
+  width: 100px;
+  height: 40px;
+  background-color: white;
+}
+
+div.divItem:hover {
+  border: 1px solid red;
+}
+
+div.divItem2:hover {
+  border: 1px solid red;
+}
